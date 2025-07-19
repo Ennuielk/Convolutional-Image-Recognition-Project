@@ -1,17 +1,15 @@
-Connvolutional-Image-Recognition-Project
-================
-fruit-classification-final.ipynb包含了本项目模型实现的全部代码（未训练）；
-================
-streamlit_test.py 包含了模型可视化与应用拓展的全部代码。
-================
-其余代码为分散模型训练。
 # 🚀 项目名称
-
+Connvolutional-Image-Recognition-Project
+===============
 ![项目徽章](https://img.shields.io/badge/版本-1.0.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![构建状态](https://img.shields.io/badge/构建-通过-brightgreen)
 
-🔍 **简短的项目描述** - 用一两句话说明项目的用途和价值。
+🔍 **简短的项目描述** 
+
+fruit-classification-final.ipynb包含了本项目模型实现的全部代码（未训练）；
+streamlit_test.py 包含了模型可视化与应用拓展的全部代码。
+其余代码为分散模型训练。
 
 ## 📌 目录
 
@@ -25,9 +23,7 @@ streamlit_test.py 包含了模型可视化与应用拓展的全部代码。
 
 ## ✨ 功能特性
 
-- **核心功能1**: 描述
-- **核心功能2**: 描述
-- **独特卖点**: 描述
+- **核心功能1**: 水果识别
+- **核心功能2**: 给出营养价值
 
-## 🛠️ 安装指南
 
