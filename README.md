@@ -23,7 +23,7 @@ streamlit_test.py 包含了模型可视化与应用拓展的全部代码。
 - **核心功能2**: 给出营养价值
 
 ## 🧩 贡献人员
--Xueshi Bai
--Haoyu Yang
--Guangrui Huang
--Weizhe Shi
+- Xueshi Bai
+- Haoyu Yang
+- Guangrui Huang
+- Weizhe Shi
