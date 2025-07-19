@@ -31,9 +31,3 @@ streamlit_test.py 包含了模型可视化与应用拓展的全部代码。
 
 ## 🛠️ 安装指南
 
-```bash
-# 使用npm安装
-npm install your-package
-
-# 或者使用yarn
-yarn add your-package
